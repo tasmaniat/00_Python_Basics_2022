@@ -6,7 +6,9 @@ greeting = "hello world"
 # they can also be numbers
 fav_num = 7
 
-# Below is a constant ( the name is in UPPERCASE)
-PI = 3.14
+# this variable has a problem
+my_name = "Torilynn"
 
-num_2 = 2
+print(greeting)
+print(fav_num)
+print(my_name)
